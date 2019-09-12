@@ -8,7 +8,9 @@
   GlossaryTermConversion="marked"
   MasterToc="/Project/TOCs/Master.fltoc"
   ConvertStylesheetStylesToInlineStyles="true"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
@@ -16,7 +18,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Destination.fldes"
+      Link="/Project/Destinations/salesForceNew.fldes"
       Publish="true" />
   </Destinations>
 </CatapultTarget>

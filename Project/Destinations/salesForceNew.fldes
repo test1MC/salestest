@@ -10,4 +10,5 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="salesforce"
   ArticleType="Flare__kav"
-  PublishAfterUpload="true"></CatapultDestination>
+  PublishAfterUpload="true"
+  OptimizeUpload="false"></CatapultDestination>

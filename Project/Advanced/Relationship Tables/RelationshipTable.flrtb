@@ -8,13 +8,7 @@
   </relheader>
   <relrow
     class="Test">
-    <relcell>
-      <topicref
-        href="/Content/Source File.htm" />
-    </relcell>
-    <relcell>
-      <topicref
-        href="/Content/Relationship Link.htm" />
-    </relcell>
+    <relcell> </relcell>
+    <relcell> </relcell>
   </relrow>
 </reltable>

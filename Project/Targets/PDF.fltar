@@ -12,4 +12,8 @@
     GenerateTOCProxy="false"
     GenerateIndexProxy="false"
     GenerateGlossaryProxy="false" />
+  <Destinations>
+    <Destination
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
