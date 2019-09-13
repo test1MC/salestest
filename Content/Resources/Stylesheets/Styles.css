@@ -93,3 +93,8 @@ MadCap|xref
 	mc-format: 'auiwdgad';
 }
 
+thead
+{
+	border-bottom: solid 6px #000000;
+}
+
