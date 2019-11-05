@@ -6,11 +6,14 @@
   Destinations=""
   ShowMadCapBacklink="true"
   GlossaryTermConversion="marked"
-  MasterToc="/Project/TOCs/Master.fltoc"
+  MasterToc="/Project/TOCs/New.fltoc"
   ConvertStylesheetStylesToInlineStyles="true"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
-  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn"
+  GetLatestBeforeCompile="false"
+  DisableAutoSync="true"
+  ExcludeUnreferencedContent="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
@@ -18,7 +21,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/salesForceNew.fldes"
+      Link="/Project/Destinations/ew.fldes"
       Publish="true" />
   </Destinations>
 </CatapultTarget>

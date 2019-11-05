@@ -10,6 +10,8 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="salesforce"
   PublishAfterUpload="true"
-  OptimizeUpload="false"
+  Categories="Test2:All"
+  OptimizeUpload="true"
   ArticleType="Flare__kav"
-  Categories=""></CatapultDestination>
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

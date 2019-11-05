@@ -2,10 +2,11 @@
 <CatapultDestination
   Version="1"
   Comment="This is my publish destination"
-  Host=""
+  Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
   Directory="public_html"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
-  Type="file"></CatapultDestination>
+  Type="elastic"
+  Url="adwawd"></CatapultDestination>
